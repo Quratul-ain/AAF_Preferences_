@@ -2,7 +2,7 @@
 
 (1) ArgumentationOriginalAndApproximatePreferences.java - Source code for computing and verifying preferences using both the original and approximate approaches.
 
-(2) ArgumentationApproxPreferencesScale.java - Source code for computing and verifying preferences using approximate for larger AAF sizes.
+(2) ArgumentationApproxPreferencesScale.java - Source code for computing and verifying preferences using the approximate approach for larger AAF sizes.
 
 **Dependencies:**
 * Install Tweety library from http://tweetyproject.org/lib/
@@ -21,7 +21,7 @@ Eclipse IDE is used for compiling and running the code. Specify the arguments (a
 * arg4: specify the path of the folder where you want to save the results excel file.
 
   
-**Following are the instructions to compile and run (2) ArgumentationApproxPreferencesScale.java - Source code for computing and verifying preferences using approximate for larger AAF sizes.**
+**Following are the instructions to compile and run (2) ArgumentationApproxPreferencesScale.java - Source code for computing and verifying preferences using the approximate approach for larger AAF sizes.**
 
 Eclipse IDE is used for compiling and running the code. Specify the arguments (arg1, arg2, arg3, arg4) by clicking Run -> Run Configurations -> Arguments.
 
